@@ -1,0 +1,2 @@
+week_6_exercises
+-DCATKIN_DEVEL_PREFIX=/home/josh/RoboJackets/training/week-6-robotics-joshkirsh720/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/josh/RoboJackets/training/week-6-robotics-joshkirsh720/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/josh/RoboJackets/training/week-6-robotics-joshkirsh720/catkin_ws/devel
+
+Name: week_6_exercises
+Description: Description of week_6_exercises
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp
